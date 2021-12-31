@@ -1,5 +1,9 @@
+from tqdm import tqdm
+from random import randint
+
+
 def insertion_sort(array):
-	for i in range(1, len(array)):
+	for i in tqdm(range(1, len(array))):
 		current = array[i]
 		j = i - 1
 		while j >= 0 and array[j] > current:
@@ -8,5 +12,5 @@ def insertion_sort(array):
 		array[j + 1] = current
 	return array
 
-nums = [1,3,8,2,4,6,9,5]
+nums = [randint(1,20000) for _ in range(20000)]
 print(insertion_sort(nums))
