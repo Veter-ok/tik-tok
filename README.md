@@ -8,29 +8,19 @@ ____
 ### Binary Search (lesson_12)
 
 ```python
-def bfs(graph, startPoint, endPoint):
-	visited = []
-	search_queue = graph[startPoint]
-	next_point = 0
-	queues = len(graph[startPoint])
-	level = 1
-	while len(search_queue) > 0:
-		point = search_queue[0]
-		queues -= 1
-		del search_queue[0]
-		if point not in visited:
-			if point == endPoint:
-				return endPoint, level
-			else:
-				search_queue += graph[point]
-				next_point += len(graph[point])
-				if queues == 0:
-					queues = next_point
-					next_point = 0
-					level += 1
-				visited.append(point)
-		print(point, level, queues, search_queue)
-	return False
+def binary_search(list, item):
+	low = 0
+	high = len(list) - 1
+	while low <= high:
+		mid = (low + high) // 2
+		guess = list[mid]
+		if guess == item:
+			return mid
+		if guess > item:
+			high = mid - 1
+		else:
+			low = mid + 1
+	return None
 ```
 
 ### Quicksort (lesson_14)
