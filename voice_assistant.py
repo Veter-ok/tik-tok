@@ -1,3 +1,4 @@
+# git push -f origin main
 # brew remove portaudio
 # brew install portaudio
 # pip3 install pyAudio
