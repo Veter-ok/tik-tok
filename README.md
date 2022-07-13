@@ -1,73 +1,25 @@
-# tik-tok
+# Tik Tok
 
-Весь код из мего [тик тока](https://www.tiktok.com/@veter.ok77)
-(1,500 - подписчиков)
+> #### All code from my [Tik Tok](https://www.tiktok.com/@veter.ok77) -- 🫂 3,2K folowers
 
-____
+* **Voise Assistant** ( ♥️ 4,4K likes, 💬 57 comments, 📨 62 reposts )
+* **Algorithms**
+  * Breadth First Search or BFS ( ♥️ 5,3K likes, 💬 120 comments, 📨 190 reposts )
+  * Binary Search ( ♥️ 213 likes, 💬 10 comments, 📨 0 reposts )
+  * Dijkstra Algorithm ( ♥️ 160 likes, 💬 5 comments, 📨 2 reposts )
+  * Floyd's Algorithm ( ♥️ 180 likes, 💬 9 comments, 📨 2 reposts )
+  * Insertion Sort ( ♥️ 190 likes, 💬 20 comments, 📨 3 reposts )
+  * Merge Sort ( ♥️ 400 likes, 💬 3 comments, 📨 4 reposts )
+  * Quick Sort ( ♥️ 210 likes, 💬 13 comments, 📨 2 reposts )
+* **Features of python**
+  * Colorful Text ( ♥️ 28 likes, 💬 2 comments, 📨 0 reposts )
+  * Converter ( ♥️ 213 likes, 💬 10 comments, 📨 0 reposts )
+  * Covid Tracker ( ♥️ 26 likes, 💬 2 comments, 📨 0 reposts )
+  * Currency Parser ( ♥️ 210 likes, 💬 7 comments, 📨 0 reposts )
+  * Push Notification ( ♥️ 50 likes, 💬 0 comments, 📨 4 reposts )
+  * Progress Bar ( ♥️ 120 likes, 💬 3 comments, 📨 2 reposts )
+  * YouTube downloader ( ♥️ 510 likes, 💬 10 comments, 📨 21 reposts )
 
-### Binary Search (lesson_12)
+## Thank you
 
-```python
-def binary_search(list, item):
-	low = 0
-	high = len(list) - 1
-	while low <= high:
-		mid = (low + high) // 2
-		guess = list[mid]
-		if guess == item:
-			return mid
-		if guess > item:
-			high = mid - 1
-		else:
-			low = mid + 1
-	return None
-```
-
-### Quicksort (lesson_14)
-
-``` python
-def quicksort(array):
-	if len(array) < 2:
-		return array
-	else:
-		pivot = array[len(array) // 2]
-		pivots = []
-		less = []
-		greater = []
-		for i in array:
-			if i < pivot:
-				less.append(i)
-			elif i > pivot:
-				greater.append(i)
-			else:
-				pivots.append(i)
-		return quicksort(less) + pivots + quicksort(greater)
-```
-
-### Breadth-first Search (lesson_17)
-
-```python
-def bfs(graph, startPoint, endPoint):
-	visited = []
-	search_queue = graph[startPoint]
-	next_point = 0
-	queues = len(graph[startPoint])
-	level = 1
-	while len(search_queue) > 0:
-		point = search_queue[0]
-		queues -= 1
-		del search_queue[0]
-		if point not in visited:
-			if point == endPoint:
-				return endPoint, level
-			else:
-				search_queue += graph[point]
-				next_point += len(graph[point])
-				if queues == 0:
-					queues = next_point
-					next_point = 0
-					level += 1
-				visited.append(point)
-		print(point, level, queues, search_queue)
-	return False
-```
+Subscribe my GitHub and watch another projects
