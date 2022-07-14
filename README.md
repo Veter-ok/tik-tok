@@ -1,24 +1,28 @@
 # Tik Tok
 
-> #### All code from my [Tik Tok](https://www.tiktok.com/@veter.ok77) -- 🫂 3,2K folowers
+> ### All code from my [Tik Tok](https://www.tiktok.com/@veter.ok77) -- 🫂 3,2K folowers
 
-* **Voise Assistant** ( ♥️ 4,4K likes, 💬 57 comments, 📨 62 reposts )
+* **[Voise Assistant](https://github.com/Veter-ok/tik-tok/blob/main/voice_assistant.py)**  ( 👀 108K views, ♥️ 4,4K likes)
 * **Algorithms**
-  * Breadth First Search or BFS ( ♥️ 5,3K likes, 💬 120 comments, 📨 190 reposts )
-  * Binary Search ( ♥️ 213 likes, 💬 10 comments, 📨 0 reposts )
-  * Dijkstra Algorithm ( ♥️ 160 likes, 💬 5 comments, 📨 2 reposts )
-  * Floyd's Algorithm ( ♥️ 180 likes, 💬 9 comments, 📨 2 reposts )
-  * Insertion Sort ( ♥️ 190 likes, 💬 20 comments, 📨 3 reposts )
-  * Merge Sort ( ♥️ 400 likes, 💬 3 comments, 📨 4 reposts )
-  * Quick Sort ( ♥️ 210 likes, 💬 13 comments, 📨 2 reposts )
+  * [Breadth First Search](https://github.com/Veter-ok/tik-tok/blob/main/algorithms/bfs.py) or BFS ( 👀 89K views, ♥️ 5,3K likes)
+  * [Binary Search](https://github.com/Veter-ok/tik-tok/blob/main/algorithms/binary_search.py) ( 👀 2,5K views, ♥️ 213 likes)
+  * [Dijkstra Algorithm](https://github.com/Veter-ok/tik-tok/blob/main/algorithms/dijkstra_algorithm.py) ( 👀 2,5K views, ♥️ 160 likes)
+  * [Floyd&#39;s Algorithm](https://github.com/Veter-ok/tik-tok/blob/main/algorithms/floyds_algorithm.py) ( 👀 4K views, ♥️ 180 likes)
+  * [Insertion Sort ](https://github.com/Veter-ok/tik-tok/blob/main/algorithms/insertionSort.py)( 👀 3K views, ♥️ 190 likes)
+  * [Merge Sort](https://github.com/Veter-ok/tik-tok/blob/main/algorithms/merge-sort.py) ( 👀 5K views, ♥️ 400 likes)
+  * [Quick Sort](https://github.com/Veter-ok/tik-tok/blob/main/algorithms/quick_sort.py) ( 👀 3K views, ♥️ 210 likes)
 * **Features of python**
-  * Colorful Text ( ♥️ 28 likes, 💬 2 comments, 📨 0 reposts )
-  * Converter ( ♥️ 213 likes, 💬 10 comments, 📨 0 reposts )
-  * Covid Tracker ( ♥️ 26 likes, 💬 2 comments, 📨 0 reposts )
-  * Currency Parser ( ♥️ 210 likes, 💬 7 comments, 📨 0 reposts )
-  * Push Notification ( ♥️ 50 likes, 💬 0 comments, 📨 4 reposts )
-  * Progress Bar ( ♥️ 120 likes, 💬 3 comments, 📨 2 reposts )
-  * YouTube downloader ( ♥️ 510 likes, 💬 10 comments, 📨 21 reposts )
+  * [Colorful Text](https://github.com/Veter-ok/tik-tok/blob/main/features/colorful_text.py) ( 👀 1K views, ♥️ 28 likes)
+  * [Converter](https://github.com/Veter-ok/tik-tok/blob/main/features/converter.py) ( 👀 5K views, ♥️ 213 likes)
+  * [Covid Tracker](https://github.com/Veter-ok/tik-tok/blob/main/features/covid_tracker.py) ( 👀 500 views, ♥️ 26 likes)
+  * [Currency Parser](https://github.com/Veter-ok/tik-tok/blob/main/features/currency_parser.py) ( 👀 3K views, ♥️ 210 likes)
+  * [Push Notification](https://github.com/Veter-ok/tik-tok/blob/main/features/notification.py) ( 👀 500 views, ♥️ 50 likes)
+  * [Progress Bar](https://github.com/Veter-ok/tik-tok/blob/main/features/progress.py) ( 👀 2K views, ♥️ 120 likes)
+  * [Pretty Table](https://github.com/Veter-ok/tik-tok/blob/main/features/table.py) ( 👀 16K views, ♥️ 1,2K likes)
+  * [YouTube downloader](https://github.com/Veter-ok/tik-tok/blob/main/features/youtube_download.py) ( 👀 4K views, ♥️ 510 likes)
+* **Telegram Bots**
+  * [PyTelegramBotAPI](https://github.com/Veter-ok/tik-tok/blob/main/bot/bot2.py) ( 👀 2K views, ♥️ 70 likes)
+  * [Aiogram](https://github.com/Veter-ok/tik-tok/blob/main/bot/bot.py) ( 👀 2K views, ♥️ 130 likes)
 
 ## Thank you
 
