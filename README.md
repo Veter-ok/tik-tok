@@ -12,7 +12,8 @@
   * [Merge Sort](https://github.com/Veter-ok/tik-tok/blob/main/algorithms/merge-sort.py) ( 👀 5K views, ♥️ 400 likes)
   * [Quick Sort](https://github.com/Veter-ok/tik-tok/blob/main/algorithms/quick_sort.py) ( 👀 3K views, ♥️ 210 likes)
 * **Features of python**
-  * [Python&#39;s tricks ](https://github.com/Veter-ok/tik-tok/blob/main/features/tricks.py)()
+  * [Test speed of functions ](https://github.com/Veter-ok/tik-tok/blob/main/features/functionSpeedTest.py)()
+  * [Python&#39;s tricks ](https://github.com/Veter-ok/tik-tok/blob/main/features/tricks.py)(👀 4,5K views, ♥️ 340 likes)
   * [Colorful Text](https://github.com/Veter-ok/tik-tok/blob/main/features/colorful_text.py) ( 👀 1K views, ♥️ 28 likes)
   * [Converter](https://github.com/Veter-ok/tik-tok/blob/main/features/converter.py) ( 👀 5K views, ♥️ 213 likes)
   * [Covid Tracker](https://github.com/Veter-ok/tik-tok/blob/main/features/covid_tracker.py) ( 👀 500 views, ♥️ 26 likes)
